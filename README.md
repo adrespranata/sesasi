@@ -55,6 +55,10 @@ Aplikasi "Catatan" adalah sebuah aplikasi sederhana untuk mencatat dan mengelola
 - Untuk mengakses API, gunakan endpoint yang tersedia, misalnya `http://localhost:8000/api/notes`.
 - Anda perlu mendaftar dan login untuk mengakses beberapa fitur, tergantung pada peran pengguna Anda.
 
+## Dokumentasi Postman
+
+Dokumentasi Postman untuk API aplikasi Catatan dapat ditemukan di sini: [Dokumentasi Postman](https://documenter.getpostman.com/view/29804014/2s9YJXYQSw)
+
 ## Rute dan Endpoint
 
 Aplikasi ini memiliki beberapa rute dan endpoint yang berbeda untuk berbagai operasi. Di bawah ini adalah beberapa endpoint utama yang tersedia:
@@ -67,7 +71,9 @@ Aplikasi ini memiliki beberapa rute dan endpoint yang berbeda untuk berbagai ope
 
 Anda juga dapat menyesuaikan rute dan endpoint sesuai kebutuhan Anda.
 
-atau bisa melihat dokumentasi postman berikut:
+## Lisensi
 
-`https://documenter.getpostman.com/view/29804014/2s9YJXYQSw`
+Lisensi: [MIT License](LICENSE)
+
+Terima kasih telah menggunakan aplikasi Catatan ini!
 
