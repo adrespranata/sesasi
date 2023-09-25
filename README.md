@@ -70,10 +70,3 @@ Aplikasi ini memiliki beberapa rute dan endpoint yang berbeda untuk berbagai ope
 - `DELETE /api/notes/{id}`: Menghapus catatan berdasarkan ID.
 
 Anda juga dapat menyesuaikan rute dan endpoint sesuai kebutuhan Anda.
-
-## Lisensi
-
-Lisensi: [MIT License](LICENSE)
-
-Terima kasih telah menggunakan aplikasi Catatan ini!
-
