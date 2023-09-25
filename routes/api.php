@@ -1,6 +1,12 @@
 <?php
 
-use App\Http\Controllers\Auth\LoginController;
+/**
+ * @author      Adres Pranata
+ * @email       adrespranata0201@gmail.com
+ * @copyright   2023
+ */
+
+ use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\NoteController;
 use App\Http\Controllers\UserController;

@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * @author      Adres Pranata
+ * @email       adrespranata0201@gmail.com
+ * @copyright   2023
+ */
+
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;

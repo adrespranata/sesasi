@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * @author      Adres Pranata
+ * @email       adrespranata0201@gmail.com
+ * @copyright   2023
+ */
+
 namespace App\Http\Controllers;
 
 use App\Models\User;

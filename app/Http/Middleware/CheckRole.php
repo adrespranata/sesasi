@@ -9,6 +9,12 @@ use Symfony\Component\HttpFoundation\Response;
 class CheckRole
 {
     /**
+     * @author      Adres Pranata
+     * @email       adrespranata0201@gmail.com
+     * @copyright   2023
+     */
+
+    /**
      * Handle an incoming request.
      *
      * @param  \Closure(\Illuminate\Http\Request): (\Symfony\Component\HttpFoundation\Response)  $next
